@@ -1,1 +1,3 @@
 # doggyApp
+
+pet project, literally
