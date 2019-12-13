@@ -5,6 +5,7 @@
  * @format
  * @flow
  */
+import 'react-native-gesture-handler';
 
 import React from 'react';
 import {
@@ -24,7 +25,7 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 
-const App: () => React$Node = () => {
+const App = () => {
   return (
     <>
       <StatusBar barStyle="dark-content" />
